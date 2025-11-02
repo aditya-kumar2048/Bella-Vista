@@ -43,6 +43,7 @@ This project was built by following a lecture/tutorial. It helped me understand:
 
 ## 🚀 Live Demo
 
-You can host this project using [GitHub Pages](https://pages.github.com/) to share it publicly.
+You can host this project using [Bella Vista Restaurant](https://aditya-kumar2048.github.io/Bella-Vista/) to share it publicly.
 
 ---
+
